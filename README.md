@@ -9,7 +9,7 @@ Nocturne Fix Windows 10
 
 3. Change Compatibiltiy to Windows XP SP 2>Run as Administrator
 
-4. After Launching the game go to the settings Graphics and change Hardware mode to On)if its not set
+4. After Launching the game go to the settings Graphics and change Hardware mode to On if its not set
 
 5. Set resolution to 640x480 (dont worry it is set to FHD in the Fix)
 
