@@ -5,7 +5,7 @@ Nocturne Fix Windows 10
 
 1. Install Nocturne as Admin using this link: https://drive.google.com/drive/folders/1ThYlgFDNLV-hucyHvNGluROB1dBsCT1G?usp=sharing
 
-2. Copy/paste all files from this preconfigured fix to the folder overwritting when necessary C:\Games\Terminal Reality\Nocturne
+2. Download/Copy/Paste all files from this preconfigured fix to the folder overwritting when necessary C:\Games\Terminal Reality\Nocturne
 
 3. Change Compatibiltiy to Windows XP SP 2>Run as Administrator
 
@@ -14,5 +14,5 @@ Nocturne Fix Windows 10
 5. Set resolution to 640x480 (dont worry it is set to FHD in the Fix)
 
 6. Run the game for the first time and configure keyboard settings (faster than waiting before running)
-
+7. (Optional) Intro requires old indeo codec to play,but they dont display using the fix if you have VLC player use it to play the intro,location C:\Games\Terminal Reality\Nocturne\video
 Enjoy the classic!
