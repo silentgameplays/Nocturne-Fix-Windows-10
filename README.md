@@ -20,4 +20,6 @@ Nocturne Fix Windows 10
 * cd C:\Windows\SysWOW64
 # Register the .dll with this command : 
 * regsvr32 ir50_32.dll
+
+
 Enjoy the classic!
